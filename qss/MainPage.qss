@@ -1,0 +1,146 @@
+#groupBox{
+	background-color: rgb(246,246,246);
+	border: 2px dotted rgb(0,246,246);
+	border-radius: 10px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	margin-right: 10px;
+}
+#groupBox:title{
+	font-size: 12px;
+	font-family: Arial-BoldItalicMT, Arial;
+	color: rgb(0,0,0);
+	subcontrol-origin: margin;
+	subcontrol-position: top left;
+	left:15px;
+	top:0px;
+	right: 0px;
+	bottom:0px;
+	padding:0px;
+}
+#topRight{
+	background-color: rgba(246,246,246,255);
+	padding: 0px;
+	margin: 0px;
+	border-width: 0px;
+}
+#topLeft{
+	background-color: rgb(246,246,246);
+	padding: 0px;
+	margin: 0px;
+	border-width: 0px;
+}
+#copyrightGraphic{
+	background-color: rgb(55,99,214,255);
+	border: 0px;
+	border-radius: 10px;
+	padding: 0px;
+	margin-left: 10px;
+	width: 16px;
+	height: 16px;
+	font-size: 26px;
+	font-family: Arial-BoldItalicMT, Arial;
+	color: rgba(255,255,255,255);
+}
+#appName{
+	background-color: rgb(246,246,246);
+	border: 0px;
+	border-radius: 10px;
+	padding: 0px;
+	margin: 0px;
+	width: 16px;
+	height: 16px;
+	font-size: 18px;
+	font-family: Arial-BoldItalicMT, Arial;
+	color: rgba(0,0,0,255);
+}
+#minButton{
+	background-color: rgb(246,246,246);
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 40px;
+	height: 40px;
+	color: rgb(10,10,10,255);
+	font-size: 20px;
+	font-family:SimSun;
+}
+#minButton:hover{
+	background-color: rgb(195,195,194);
+}
+#minButton:pressed{
+	background-color: rgb(208,208,208);
+}
+#closeButton{
+	background-color: rgb(246,246,246);
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 40px;
+	height: 40px;
+	color: rgb(10,10,10,255);
+	font-size: 20pt;
+	font-family: SimSun;
+}
+#closeButton:hover{
+	background-color: rgb(251,115,115);
+}
+#closeButton:pressed{
+	background-color: rgb(225,72,72);
+}
+#label{
+	font-size: 16px;
+	font-family: KaiTi;
+	color: rgb(0,0,0);
+}
+#comboBox{
+	margin-left: 10px;
+	font-size: 16px;
+	font-family: KaiTi;
+	color: rgb(0,0,0);
+	border : 1px solid rgb(0,0,0);
+	border-radius: 3px;
+}
+#lineEdit{
+	margin-left: 10px;
+	background-color: rgb(255,255,255);
+	border: 1px solid rgb(0,0,0);
+	border-radius: 4px;
+	font-size: 16px;
+	font-family: KaiTi;
+	vertical-align: middle;	
+}
+#selectBtn{
+	margin-left: 10px;
+	background-color: rgb(255,255,255);
+	border : 1px solid rgb(0,0,0);
+	border-radius: 4px;
+	font-family: KaiTi;
+	color: black;
+	font-size: 16px;
+	vertical-align: middle;
+}
+#selectBtn:hover{
+	background: rgb(115,155,254);
+}
+#selectBtn:pressed{
+	background: rgb(72,72,72);
+}
+#btn{
+	margin-left: 10px;
+	background-color: rgb(58,96,207);
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: KaiTi;
+	color: white;
+	font-size: 12pt;
+	vertical-align: middle;
+}
+#btn:hover{
+	background: rgb(115,155,254);
+}
+#btn:pressed{
+	background: rgb(72,72,72);
+}
