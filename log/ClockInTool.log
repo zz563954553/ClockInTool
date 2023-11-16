@@ -111,3 +111,6 @@
 2023-11-15 09:20:08,226 - INFO - 开始执行任务！
 2023-11-15 09:20:16,766 - INFO - 已经停止任务！
 2023-11-15 09:20:24,046 - INFO - 经选择后关闭整个应用！
+2023-11-16 09:53:05,229 - INFO - 读取到的初始文件数据：['微信', 'C:/Program Files (x86)/Tencent/WeChat/WeChat.exe', '周志', '每天', '08:45:00', '现在不在工位上，如果有重要事情，请电话（13011111111）联系，谢谢！', 'C:/Program Files (x86)/Tencent/WeChat/WeChat.exe', 'C:/Program Files (x86)/WXWork/WXWork.exe', 'C:/Program Files (x86)/Tencent/TIM/Bin/TIM.exe']
+2023-11-16 09:53:06,325 - INFO - 点击系统托盘的【启动】，正常显示主页面！
+2023-11-16 09:53:10,842 - INFO - 经选择后关闭整个应用！
